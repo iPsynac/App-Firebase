@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594391806790",
+    "project_id": "app-firebase-66ca4",
+    "storage_bucket": "app-firebase-66ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594391806790:android:f7b8d571ed5c755a946b47",
+        "android_client_info": {
+          "package_name": "mx.edu.potro.app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCzQ2d99wPMNszTP4muxFgX0YtRXL5Ib0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
